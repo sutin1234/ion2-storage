@@ -1,0 +1,14 @@
+page-home {
+    .progressbar {
+        padding: 2px;
+        border: 1px solid #ccc;
+        width: 100%;
+    }
+    .progressbar .inner-progressbar {
+        text-align: center;
+        font-weight: bold;
+        color: #fff;
+        width: 100%;
+        border-bottom: 5px solid red;
+    }
+}
